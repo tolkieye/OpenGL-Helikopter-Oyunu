@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\alike\Desktop\OpenGL\Project1\Project1\main.cpp(60,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\alike\Desktop\OpenGL\Project1\Project1\main.cpp(134,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alike\Desktop\OpenGL\Project1\Project1\main.cpp(135,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alike\Desktop\OpenGL\Project1\Project1\main.cpp(136,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alike\Desktop\OpenGL\Project1\Project1\main.cpp(137,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alike\Desktop\OpenGL\Project1\Project1\main.cpp(1070,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\alike\Desktop\OpenGL\Project1\Project1\main.cpp(1152,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project1.vcxproj -> C:\Users\alike\Desktop\OpenGL\Project1\Debug\Project1.exe
